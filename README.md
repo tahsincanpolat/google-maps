@@ -12,7 +12,7 @@ npm i react-native-permissions
 
 react-native link react-native-permissions
 
-/// AndroidManifest.xml
+AndroidManifest.xml
 
 <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
 <uses-permission android:name="android.permission.ACCESS_COURSE_LOCATION"/>
