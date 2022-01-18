@@ -19,4 +19,4 @@ AndroidManifest.xml
 <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
 
-<meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyB-yXvrMgpIvbxBsHYUYX7xcCcew28lTio"/>
+<meta-data android:name="com.google.android.geo.API_KEY" android:value="API_KEY"/>
